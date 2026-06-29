@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa004/tls/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 相雨書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa004.xml
+hash: sha256:4079cf1cf44ad721117e97d97f598d9c081cb6b3e1838a9e2bae44dc4aa623ec
